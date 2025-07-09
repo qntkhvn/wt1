@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "projects/eda/eda.html",
+    "href": "projects/eda/eda.html",
+    "title": "EDA project",
+    "section": "",
+    "text": "Insert description down here\nIt’s just all markdown syntax\nbold\nitalic\nbold and italic\n\nhist(rnorm(100))"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Your Name",
+    "section": "",
+    "text": "Welcome to my website! I am a 6th-year undergraduate at Cranberry Lemon University, majoring in ?.\nI am a member of ? Lab?\nI am a ? Fellow/Scholar."
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "EDA project\n\n\nMy EDA project stuff that I did\n\n\n\n\n\nJun 1, 2024\n\n\n\n\n\nNo matching items"
+  }
+]
