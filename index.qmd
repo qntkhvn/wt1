@@ -1,0 +1,20 @@
+---
+title: "Your Name"
+about:
+  template: jolla
+  image: assets/headshot.png
+  image-shape: round
+  links:
+    - text: Email
+      icon: envelope
+      href: mailto:your_email@abc.com
+    - text: GitHub
+      icon: github
+      href: https://github.com/qntkhvn
+---
+
+Welcome to my website! I am a 6th-year undergraduate at Cranberry Lemon University, majoring in ?. 
+
+I am a member of ? Lab?
+
+I am a ? Fellow/Scholar.

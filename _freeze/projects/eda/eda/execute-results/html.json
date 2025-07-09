@@ -1,0 +1,17 @@
+{
+  "hash": "86baf4e8c8d683ca13b3c6990eebbc6b",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"EDA project\"\ndescription: \"My EDA project stuff that I did\"\ndate: June 2024\nresources: \".\"\nabout:\n  template: solana\n  image: cover.png\n  links: \n    - icon: github\n      text: \"GitHub\"\n      href: https://github.com/qntkhvn/vizbuzz\n    - icon: laptop\n      text: Slides\n      href: https://docs.google.com/presentation/d/1wVnWnYcqKo_OzFn-13H1LI6vEzSqcAtW_8EGqvVBjYA/edit?usp=sharing\n---\n\n\n\n\nInsert description down here\n\nIt's just all markdown syntax\n\n\n**bold**\n\n*italic*\n\n***bold and italic***\n\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\nhist(rnorm(100))\n```\n\n::: {.cell-output-display}\n![](eda_files/figure-html/unnamed-chunk-1-1.png){width=672}\n:::\n:::",
+    "supporting": [
+      "eda_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
